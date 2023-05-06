@@ -204,7 +204,7 @@ section.module.parallax-1 {
   font-family: 'Avenir LT Std';
   display: block;
   text-align: center;
-  background: #1eb580;
+  background: #fea0bc;
   color: #fff;
   line-height: 22px;
   width: fit-content;
@@ -219,7 +219,7 @@ section.module.parallax-1 {
   overflow: hidden;
 }
 .heaingbox {
-  color: #1eb580;
+  color: #fea0bc;
   font-size: 70px;
   font-family: 'LEMON MILK';
   text-align: left;
@@ -294,7 +294,7 @@ section.module.parallax-1 {
   text-align: right;
   font-size: 28px;
   font-weight: 600;
-  color: #1eb580;
+  color: #fea0bc;
   line-height: 80px;
 }
 .impactmade ul li span {
@@ -422,7 +422,7 @@ footer .container-fluid p {
 }
 .bottomtext {
   font-family: 'LEMON MILK';
-  color: #1eb580;
+  color: #fea0bc;
   font-size: 46px;
   font-weight: 500;
   position: relative;
@@ -432,22 +432,22 @@ footer .container-fluid p {
   vertical-align: top;
   line-height: 44px;
   text-align: right;
-  border-right: solid 2px #1eb580;
+  border-right: solid 2px #fea0bc;
   padding-right: 16px;
-  color: #1eb580;
+  color: #fea0bc;
 }
 .right-text {
   display: inline-block;
   vertical-align: top;
   line-height: 44px;
   text-align: left;
-  color: #1eb580;
+  color: #fea0bc;
 }
 .let-text::before, .right-text::before {
   content: '';
   height: 3px;
   width: 31%;
-  background: #1eb580;
+  background: #fea0bc;
   position: absolute;
   left: 0;
   top: 6px;
@@ -470,7 +470,7 @@ h1 span {
   font-size: 15px;
   font-weight: 400;
   color: #ffffff;
-  background: #1eb580;
+  background: #fea0bc;
   padding: 8px 26px;
   width: fit-content;
   margin: 8px auto 0;
@@ -528,7 +528,7 @@ h2 {
   font-size: 21px;
 }
 .websiteobx i {
-  color: #1eb580;
+  color: #fea0bc;
 }
 .websiteobx-instera {
   color: #fff;
@@ -549,7 +549,7 @@ h2 {
   font-size: 21px;
 }
 .websiteobx-instera i {
-  color: #1eb580;
+  color: #fea0bc;
   margin-right: 11px;
 }
 .downarobox {
